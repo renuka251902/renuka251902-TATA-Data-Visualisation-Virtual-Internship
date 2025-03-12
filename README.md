@@ -47,7 +47,7 @@ Handling missing values.
 Data cleaning and formatting
 
 ### Key Insights:
-  1] *Seasonal Trends*:
+  1] **Seasonal Trends**:
   
 -  Peak Sales: October (1.04M) & November (1.16M) – Likely due to holiday shopping & year-end discounts.
   
@@ -55,13 +55,13 @@ Data cleaning and formatting
    
 -  Gradual Growth: March–May sees steady sales rise, dipping slightly in June–July before peaking in Q4.
 
- 2] *Customer-Wise Revenue Analysis*:
+ 2] **Customer-Wise Revenue Analysis**:
  
 -  Top Customers: The highest revenue-generating customer contributed 272K, followed by others at 232K, 193K, and 168K.
 
 -  Revenue Distribution: Revenue declines gradually across customers, with the lowest contributing around 68K.
 
-  3] *Customer Analysis*:
+  3] **Customer Analysis**:
   
 -  Total Customers: The dashboard shows 4.2K customers.
   
