@@ -46,27 +46,13 @@ Handling missing values.
 Data cleaning and formatting
 
 ### Key Insights:
-1. Peak Sales Months (High Revenue Periods)
-
-🔹 November (1.16M revenue) and October (1.04M revenue) show the highest sales, indicating a surge in demand, likely due to: Holiday shopping season (Black Friday, Christmas 
-   preparations).
-   Year-end sales and discounts attracting more customers.
-
-🔹 September (0.95M revenue) also marks a strong sales period, possibly due to back-to-school shopping and early holiday preparations.
-
-
-2. Low Sales Months (Slow Periods)
- 
-🔹 February (0.45M revenue) and July (0.65M revenue) show lower revenue, which could be due to:
-   Post-holiday slump in January-February.
-        Summer vacation period (July) where customers might spend less on retail.
-        
-
-3. Gradual Sales Growth Pattern
- 
-🔹 Sales show a gradual increase from March to May, followed by a slight dip in summer (June-July) before rising again in the fall-winter       months (August–December).
-
-
+  1] Seasonal Trends:
+  
+-  Peak Sales: October (1.04M) & November (1.16M) – Likely due to holiday shopping & year-end discounts.
+  
+-  Low Sales: February (0.45M) & July (0.65M) – Post-holiday slump & summer slowdown.
+   
+-  Gradual Growth: March–May sees steady sales rise, dipping slightly in June–July before peaking in Q4.
 
 
 
