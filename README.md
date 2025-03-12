@@ -58,10 +58,11 @@ Data cleaning and formatting
 2. Low Sales Months (Slow Periods)
  
 🔹 February (0.45M revenue) and July (0.65M revenue) show lower revenue, which could be due to:
-Post-holiday slump in January-February.
-Summer vacation period (July) where customers might spend less on retail.
+   Post-holiday slump in January-February.
+   Summer vacation period (July) where customers might spend less on retail.
 
 3. Gradual Sales Growth Pattern
+ 
 🔹 Sales show a gradual increase from March to May, followed by a slight dip in summer (June-July) before rising again in the fall-winter months (August–December).
 
 
