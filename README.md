@@ -16,10 +16,10 @@ By engaging in multiple-choice assessments, I developed a strong understanding o
 ### ✤ Task 3 - Designing Engaging Visuals
 Using Power BI, I explored various visualization techniques to create interactive and insightful dashboards, enhancing my ability to communicate complex data effectively.
 
-## ✤ Task 4 - Presenting Insights & Analysis
+### ✤ Task 4 - Presenting Insights & Analysis
 I applied my analytical skills to extract meaningful insights from data and effectively communicate findings, enabling better business decision-making through data-driven storytelling.
 
-![image alt](https://github.com/renuka251902/Business_Insights_360/blob/18e81417b2236b0a82d905c201f3ddf46f989acc/Screenshot%202025-03-01%20114135.png)
+![image alt](https://github.com/renuka251902/renuka251902-TATA-Data-Visualisation-Virtual-Internship/blob/main/Screenshot%202025-03-12%20145903.png)
 
 
 
