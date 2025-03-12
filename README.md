@@ -54,6 +54,12 @@ Data cleaning and formatting
    
 -  Gradual Growth: March–May sees steady sales rise, dipping slightly in June–July before peaking in Q4.
 
+ 2] Customer-Wise Revenue Analysis:
+ 
+-  Top Customers: The highest revenue-generating customer contributed 272K, followed by others at 232K, 193K, and 168K.
+
+-  Revenue Distribution: Revenue declines gradually across customers, with the lowest contributing around 68K.
+
 
 
 
