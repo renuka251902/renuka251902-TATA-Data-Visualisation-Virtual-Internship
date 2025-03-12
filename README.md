@@ -26,6 +26,7 @@ I applied my analytical skills to extract meaningful insights from data and effe
 This project focused on gathering business requirements from stakeholders, pre-processing datasets, and developing a data visualization dashboard aligned with business intelligence needs.
 
 The dashboard is structured into one key section:
+
 🔹 Revenue Analysis – Evaluates overall sales performance.
 
 ### 💠 Data Source
@@ -59,6 +60,14 @@ Data cleaning and formatting
 -  Top Customers: The highest revenue-generating customer contributed 272K, followed by others at 232K, 193K, and 168K.
 
 -  Revenue Distribution: Revenue declines gradually across customers, with the lowest contributing around 68K.
+
+  3] Customer Analysis:
+  
+-  Total Customers: The dashboard shows 4.2K customers.
+  
+-  Revenue Contribution: A few high-value customers generate a significant portion of revenue, with the top customer contributing 272K.
+
+-  Customer Segmentation: The revenue distribution suggests a mix of high, medium, and low-spending customers.
 
 
 
