@@ -29,15 +29,15 @@ The dashboard is structured into one key section:
 
 🔹 Revenue Analysis – Evaluates overall sales performance.
 
-### 💠 Data Source
+### Data Source
 Online Retail Data – This dataset was obtained from the Virtual Internship on Forage by Tata Group, under the program "Data Visualization: Empowering Business with Effective Insights."
 
-### 💠 Tools Used
+### Tools Used
 ✅ Excel – Data cleaning and preparation.
 
 ✅ Power BI – Dashboard creation and data visualization.
 
-### 💠 Data Preparation
+### Data Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 Data loading and inspection.
@@ -47,7 +47,7 @@ Handling missing values.
 Data cleaning and formatting
 
 ### Key Insights:
-  1] **Seasonal Trends**:
+  1] ***Seasonal Trends***:
   
 -  Peak Sales: October (1.04M) & November (1.16M) – Likely due to holiday shopping & year-end discounts.
   
@@ -55,13 +55,13 @@ Data cleaning and formatting
    
 -  Gradual Growth: March–May sees steady sales rise, dipping slightly in June–July before peaking in Q4.
 
- 2] **Customer-Wise Revenue Analysis**:
+ 2] ***Customer-Wise Revenue Analysis***:
  
 -  Top Customers: The highest revenue-generating customer contributed 272K, followed by others at 232K, 193K, and 168K.
 
 -  Revenue Distribution: Revenue declines gradually across customers, with the lowest contributing around 68K.
 
-  3] **Customer Analysis**:
+  3] ***Customer Analysis***:
   
 -  Total Customers: The dashboard shows 4.2K customers.
   
@@ -70,7 +70,7 @@ Data cleaning and formatting
 -  Customer Segmentation: The revenue distribution suggests a mix of high, medium, and low-spending customers.
 
 
-4] **Regional Analysis**:
+4] ***Regional Analysis***:
 - Top Performing Regions
 
   - ❏ Netherlands leads in revenue with 276.66K and 194K units sold.
@@ -106,13 +106,18 @@ Applied theoretical concepts to real-world datasets, refining analytical and pro
 Transformed complex data into meaningful business insights for data-driven decisions.
 
 ✅ ***Innovative Problem Solving***
+
 Designed creative solutions to address data challenges, improving analytical efficiency.
 
 ✅ ***Effective Communication of Insights***
+
 Strengthened my ability to present findings clearly and persuasively through dynamic dashboards.
 
 ✅ ***Future-Ready Learning***
+
 Acquired practical skills applicable across various industries, positioning myself for success in data analytics.
+
+Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiYTkzZjllZGUtOTY3Yy00Y2FhLTg3YjUtZjhiNjY4OWFjYmVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 A special thanks to **Forage** and **Tata Group** for this incredible opportunity to work with real datasets and build insightful data visualizations. 
 
