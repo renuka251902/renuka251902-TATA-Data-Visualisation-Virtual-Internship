@@ -33,13 +33,16 @@ Online Retail Data – This dataset was obtained from the Virtual Internship on 
 
 ### 💠 Tools Used
 ✅ Excel – Data cleaning and preparation.
+
 ✅ Power BI – Dashboard creation and data visualization.
 
 ### 💠 Data Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 Data loading and inspection.
+
 Handling missing values.
+
 Data cleaning and formatting
 
 ### Key Insights:
