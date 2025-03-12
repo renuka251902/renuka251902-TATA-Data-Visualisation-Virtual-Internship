@@ -117,8 +117,6 @@ Strengthened my ability to present findings clearly and persuasively through dyn
 
 Acquired practical skills applicable across various industries, positioning myself for success in data analytics.
 
-Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiYTkzZjllZGUtOTY3Yy00Y2FhLTg3YjUtZjhiNjY4OWFjYmVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
 A special thanks to **Forage** and **Tata Group** for this incredible opportunity to work with real datasets and build insightful data visualizations. 
 
 
