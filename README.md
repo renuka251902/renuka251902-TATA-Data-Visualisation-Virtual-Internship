@@ -21,6 +21,12 @@ I applied my analytical skills to extract meaningful insights from data and effe
 
 ![image alt](https://github.com/renuka251902/renuka251902-TATA-Data-Visualisation-Virtual-Internship/blob/main/Screenshot%202025-03-12%20145903.png)
 
+- [Project overview](#Project-overview)
+- [Data Source](#Data-Source)
+- [Tools Used](#Tools-Used)
+- [Data Preparation](#Data-Preparation)
+- [Key Insights](#Key-Insights)
+
 
 ### Project Overview
 This project focused on gathering business requirements from stakeholders, pre-processing datasets, and developing a data visualization dashboard aligned with business intelligence needs.
