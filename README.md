@@ -19,6 +19,8 @@ Using Power BI, I explored various visualization techniques to create interactiv
 ## ✤ Task 4 - Presenting Insights & Analysis
 I applied my analytical skills to extract meaningful insights from data and effectively communicate findings, enabling better business decision-making through data-driven storytelling.
 
+![image alt](https://github.com/renuka251902/Business_Insights_360/blob/18e81417b2236b0a82d905c201f3ddf46f989acc/Screenshot%202025-03-01%20114135.png)
+
 
 
 
