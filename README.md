@@ -70,6 +70,26 @@ Data cleaning and formatting
 -  Customer Segmentation: The revenue distribution suggests a mix of high, medium, and low-spending customers.
 
 
+4] **Regional Analysis**:
+- Top Performing Regions
+
+- ❏ Netherlands leads in revenue with 276.66K and 194K units sold.
+  
+- ❏ EIRE (Ireland) follows with 256.73K in revenue and 135K units.
+  
+- ❏ Germany and France contribute 213.63K and 199.41K in revenue, respectively.
+  
+- Mid-Tier Markets
+
+- ❏ Australia generated 137.49K in revenue with 84K units sold.
+  
+- ❏ Spain, Switzerland, and Belgium have lower contributions but are still notable.
+  
+- Lower-Tier Markets
+
+- ❏ Sweden and Norway have the least revenue, below 35K each.
+
+
 
 
 
