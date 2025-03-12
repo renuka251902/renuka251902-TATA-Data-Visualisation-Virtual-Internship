@@ -88,6 +88,33 @@ Data cleaning and formatting
 - Lower-Tier Markets
 
    - ❏ Sweden and Norway have the least revenue, below 35K each.
+ 
+### Power BI Virtual Internship Experience:
+
+During this program, I enhanced my Power BI expertise, gaining deeper insights into data visualization and analytical problem-solving to support business decision-making.
+
+✅ ***Mastering Data Visualization***
+
+Developed advanced Power BI visualization techniques to create impactful reports.
+
+✅ ***Hands-on Data Analysis***
+
+Applied theoretical concepts to real-world datasets, refining analytical and problem-solving skills.
+
+✅ ***Extracting Strategic Insights***
+
+Transformed complex data into meaningful business insights for data-driven decisions.
+
+✅ ***Innovative Problem Solving***
+Designed creative solutions to address data challenges, improving analytical efficiency.
+
+✅ ***Effective Communication of Insights***
+Strengthened my ability to present findings clearly and persuasively through dynamic dashboards.
+
+✅ ***Future-Ready Learning***
+Acquired practical skills applicable across various industries, positioning myself for success in data analytics.
+
+A special thanks to **Forage** and **Tata Group** for this incredible opportunity to work with real datasets and build insightful data visualizations. 
 
 
 
