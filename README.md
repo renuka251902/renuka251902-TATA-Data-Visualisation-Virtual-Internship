@@ -7,13 +7,13 @@
 
 ✅ Here's what I discovered:
 
-## ✤ Task 1 - Defining Business Scenarios
+### ✤ Task 1 - Defining Business Scenarios
 I worked with an online retail store dataset, analyzing key metrics and identifying critical business challenges. This process improved my ability to formulate insightful questions for executives like the CEO and CMO, enhancing my data interpretation skills.
 
-## ✤ Task 2 - Selecting the Right Visuals
+### ✤ Task 2 - Selecting the Right Visuals
 By engaging in multiple-choice assessments, I developed a strong understanding of how to choose appropriate charts and graphs to represent data effectively. This strengthened my ability to present insights in a clear and impactful manner.
 
-## ✤ Task 3 - Designing Engaging Visuals
+### ✤ Task 3 - Designing Engaging Visuals
 Using Power BI, I explored various visualization techniques to create interactive and insightful dashboards, enhancing my ability to communicate complex data effectively.
 
 ## ✤ Task 4 - Presenting Insights & Analysis
